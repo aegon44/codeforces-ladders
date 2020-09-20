@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pablo/Documents/Matcom/improve/codeforces/<1300/Beautiful Year/main.cpp
+iostream
+-
+stdio.h
+-
+bits/stdc++.h
+-
+

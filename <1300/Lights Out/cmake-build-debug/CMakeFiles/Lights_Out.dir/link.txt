@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lights_Out.dir/main.cpp.o  -o Lights_Out 

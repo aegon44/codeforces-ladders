@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Borze.dir/main.cpp.o  -o Borze 

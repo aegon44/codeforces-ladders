@@ -1,0 +1,3 @@
+/home/pablo/Documents/Matcom/improve/codeforces/<1300/Borze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pablo/Documents/Matcom/improve/codeforces/<1300/Borze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pablo/Documents/Matcom/improve/codeforces/<1300/Borze/cmake-build-debug/CMakeFiles/Borze.dir
