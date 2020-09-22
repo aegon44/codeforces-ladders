@@ -1,3 +1,0 @@
-/home/pablo/Documents/Matcom/improve/codeforces/<1300/Lights Out/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/pablo/Documents/Matcom/improve/codeforces/<1300/Lights Out/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/pablo/Documents/Matcom/improve/codeforces/<1300/Lights Out/cmake-build-debug/CMakeFiles/Lights_Out.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Beautiful_Year.dir/main.cpp.o  -o Beautiful_Year 
