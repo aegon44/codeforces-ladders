@@ -10,16 +10,17 @@ int main() {
     string number;
     getline(cin, number);
 
-    for (int i = 0; i < number.size()/ sizeof(char); ++i) {
+    for (int i = 0; i < number.size(); ++i) 
+    {
         if(number[i]=='.')
             cout << 0;
         else
-            {
+        {
             if(number[i+1]=='.')
                 cout << 1;
             else cout << 2;
-            i++;
-            }
+                i++;
+        }
 
     }
 

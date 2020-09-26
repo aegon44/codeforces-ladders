@@ -9,9 +9,7 @@ int main() {
     cin >> c >> times;
     char queue[c];
 
-    for (int i = 0; i < c; ++i) {
-        cin >> queue[i];
-    }
+    cin >> queue;
 
     for (int i = 0; i < times; ++i) {
         for (int j = 0; j < c-1; ++j) {
@@ -24,8 +22,7 @@ int main() {
         }
     }
 
-    for (int i = 0; i < c; ++i) {
-        cout << queue[i];
-    }
+    
+    cout << queue;
     return 0;
 }

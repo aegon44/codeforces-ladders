@@ -6,7 +6,7 @@ using namespace std;
 
  int main()
  {
-    int beg, n, out;
+    int  n, out;
     cin >> out;
     string letter;
     cin >> letter;
@@ -20,15 +20,9 @@ using namespace std;
         {
             if(letter[i]==letter[i+1])
                { n++;
-                //if(i+1 ==letter.size()/sizeof(char)-1) out+=n;
-               }
-            /*else if(n!=0) {
                 
-                out+= n-1;
-                if(beg == 0  )
-                    out++;   
-                beg = i+1; 
-            }*/
+               }
+            
         }
 
     cout << n;}
