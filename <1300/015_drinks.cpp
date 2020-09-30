@@ -5,12 +5,12 @@ using namespace std;
 int main()
 {
     cout << setprecision(4) << fixed;
-    int n,c;
+    int n;
     double add, aux;
     add = 0;
     cin >> n;
-    c = n;
-    while(c--)
+    
+    for(int i = 0; i < n; i++)
     {
         cin >> aux;
         add+=aux;
